@@ -14,7 +14,7 @@ How to Use:
 
 Clone the Repository:
 Bash
-git clone https://github.com/your-username/password-generator.git
+git clone [https://github.com/TusharKcode/password-generator.git]
 Use code with caution.
 
 Run the Script:
